@@ -1,1 +1,1 @@
-#This is an full stack, online store project
+# This is an full stack, online store project
